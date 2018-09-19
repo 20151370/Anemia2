@@ -1,5 +1,6 @@
-<!doctype html>
-<html>
+<!DCOTYPE html>
+
+ <html>
 	<head>
 		<title>
 			My Website
@@ -8,4 +9,4 @@
 	<body>
 		Hello, World!	
 	</body>
-</html>
+ </html>
